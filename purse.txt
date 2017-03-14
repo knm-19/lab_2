@@ -1,4 +1,4 @@
 public class purse () 
 {
-	
+	public int count {get; set;}
 }
