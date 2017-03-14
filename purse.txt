@@ -1,4 +1,4 @@
 public class purse () 
 {
-	
+	var i = 0;
 }
