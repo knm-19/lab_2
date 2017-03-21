@@ -1,4 +1,6 @@
 public class purse () 
 {
 	public int count {get; set;}
+} {
+var oi = 0;
 }
